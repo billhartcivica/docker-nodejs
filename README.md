@@ -1,7 +1,6 @@
 # Nodejs Example Docker Container
 
-This simple 'Hello world' example is taken from the offical Nodejs.org site. It runs through the steps involved
-in creating a basic Nodejs application within a Docker container, and running it.
+This simple 'Hello world' example is taken from the offical Nodejs.org site. (https://nodejs.org) It runs through the steps involved in creating a basic Nodejs application within a Docker container, and running it.
 
 To build the image, clone this repository and navigate to the 'docker-nodejs' folder and type the following
 
